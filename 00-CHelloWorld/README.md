@@ -1,0 +1,3 @@
+- Compilador Seleccionado : MSYS2
+- Version del Compilador : 13.2.0
+- Version de C que Compila : C23
