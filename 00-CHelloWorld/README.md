@@ -1,3 +1,3 @@
-- Compilador Seleccionado : MSYS2
+- Compilador Seleccionado : MINGW
 - Version del Compilador : 13.2.0
-- Version de C que Compila : C23
+- Version de C que Compila : C2X
